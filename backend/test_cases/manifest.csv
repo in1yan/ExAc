@@ -1,0 +1,13 @@
+case,students,halls,adjacency,expect
+case1,case1_students.csv,case1_halls.csv,side,solved
+case2,case2_students.csv,case2_halls.csv,side,solved
+case3,case3_students.csv,case3_halls.csv,side,solved
+case4,case4_students.csv,case4_halls.csv,side,solved
+case5,case5_students.csv,case5_halls.csv,side,solved
+case6,case6_students.csv,case6_halls.csv,side,solved
+case7,case7_students.csv,case7_halls.csv,side,solved
+case8,case8_students.csv,case8_halls.csv,side,solved
+case9,case9_students.csv,case9_halls.csv,grid,solved
+case10,case10_students.csv,case10_halls.csv,side,solved
+case11,case11_students.csv,case11_halls.csv,side,solved
+case12,case12_students.csv,case12_halls.csv,side,no_solution
